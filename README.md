@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanZayer
-- 👀 I’m interested in AI, ML, Data Science, Cyber Security
-- 🌱 I’m currently learning about IBM Data Science Professional Certificate
+- 👀 I’m interested in AI, Data Science & Analytical, Cyber Security.
+- 🌱 I’m currently learning about IBM Data Science Professional Certificate.
 
 <!---
 EmanZayer/EmanZayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
